@@ -1,4 +1,5 @@
 .DS_Store
+output/*
 *.blend1
 *.blend2
 *.blend3
